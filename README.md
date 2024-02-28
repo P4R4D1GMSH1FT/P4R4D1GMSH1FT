@@ -1,5 +1,5 @@
 ### ⚡ julia 
-I am currently majoring in philosophy at University of Warsaw. As for philosophy, I am mainly interested in logic (both mathematical and philosophical), as well as in philosophy of mathematics and technology. I am learning how to code mostly for fun, but who knows... GitHub will simply act as my tech journal (and a way to clean my drive from lots of unarranged lines of code) ;)
+I am currently majoring in philosophy at University of Warsaw. As for philosophy, I am mainly interested in logic, lviv-warsaw school, as well as in philosophy of mathematics and technology. I am learning how to code mostly for fun, but who knows... GitHub will simply act as my tech journal (and a way to clean my drive from lots of unarranged lines of code) ;)
 
 ### ⚡ stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P4R4D1GMSH1FT&theme=dracula)
