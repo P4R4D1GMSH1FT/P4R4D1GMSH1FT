@@ -8,6 +8,9 @@ I am currently a philosophy major at University of Warsaw. As for philosophy, I 
 <a href="https://hosted.weblate.org/engage/tor/-/pl/">
 <img src="https://hosted.weblate.org/widget/tor/tpo-web/pl/svg-badge.svg" alt="Translation status" />
 </a>
+
+[![Translation status](https://hosted.weblate.org/widget/tor/community-portal/pl/open-graph.png)](https://hosted.weblate.org/engage/tor/-/pl/)
+
 <!--
 **P4R4D1GMSH1FT/P4R4D1GMSH1FT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
